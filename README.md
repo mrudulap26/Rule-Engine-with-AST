@@ -1,16 +1,12 @@
-# Rule Engine
+## Rule Engine
 
 A React application that allows users to create, combine, and evaluate rules. The rules are represented as Abstract Syntax Trees (AST) and can be visualized using a tree structure.
 
 ---
 
-Here’s a structured representation of your project directory, formatted for a README file to enhance clarity:
+## 📁 Project Structure
 
----
-
-## Project Structure
-
-```plaintext
+```
 project-root/
 ├── backend/
 │   ├── index.js            # Main entry point for the backend server
