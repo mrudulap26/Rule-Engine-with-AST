@@ -155,7 +155,7 @@ cd Application-1-Rule-Engine-with-AST
 3. **Enter the following JSON data for evaluation:**
    ```json
    {
-     "age": 32,
+     "age": 35,
      "department": "Sales"
    }
    ```
