@@ -31,9 +31,6 @@ A React application that allows users to create, combine, and evaluate rules. Th
   - Drag-and-drop functionality allows for easy adjustment of the tree position.
 ---
 
-Here’s a beautified version of the "Prerequisites" and "Getting Started" sections for your README:
-
----
 
 ## 🛠️ Prerequisites
 
