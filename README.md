@@ -80,8 +80,7 @@ Here’s a beautified version of your content for the README, with proper format
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/amantripathigithub/Application-1-Rule-Engine-with-AST.git
-cd Application-1-Rule-Engine-with-AST
+https://github.com/mrudulap26/Rule-Engine-with-AST.git
 ```
 
 ### Backend Setup
