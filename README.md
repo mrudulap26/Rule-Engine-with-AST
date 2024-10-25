@@ -127,9 +127,3 @@ cd Application-1-Rule-Engine-with-AST
    ```
 
    The evaluation result should be **true** if the combined AST is satisfied by the provided data.
-
---- 
-
-
-
-```
