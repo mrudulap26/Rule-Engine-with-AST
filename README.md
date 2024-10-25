@@ -4,6 +4,44 @@ A React application that allows users to create, combine, and evaluate rules. Th
 
 ---
 
+Here’s a structured representation of your project directory, formatted for a README file to enhance clarity:
+
+---
+
+## Project Structure
+
+```plaintext
+project-root/
+├── backend/
+│   ├── index.js            # Main entry point for the backend server
+│   ├── models.js           # Database models and schemas
+│   ├── package-lock.json    # Automatically generated for npm
+│   └── package.json        # Backend dependencies and scripts
+│
+├── frontend/
+│   ├── public/             
+│   │   ├── favicon.ico      # Favicon for the web application
+│   │   ├── index.html       # Main HTML file
+│   │   ├── logo192.png      # Logo for PWA (192x192)
+│   │   ├── logo512.png      # Logo for PWA (512x512)
+│   │   ├── manifest.json     # Web App Manifest
+│   │   └── robots.txt       # Robots.txt file for SEO
+│   │
+│   ├── src/                # Source files for the frontend application
+│   ├── .gitignore           # Git ignore file for the frontend
+│   ├── README.md            # Documentation for the frontend
+│   ├── package-lock.json    # Automatically generated for npm
+│   └── package.json         # Frontend dependencies and scripts
+│
+├── .gitignore               # Git ignore file for the entire project
+└── README.md                # Main documentation for the project
+```
+
+---
+
+Feel free to modify any comments or details in the structure to better fit your project!
+
+
 ## 🚀 Features
 
 ### ✨ Rule Management
