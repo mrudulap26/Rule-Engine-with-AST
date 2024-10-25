@@ -20,11 +20,11 @@ project-root/
 │
 ├── frontend/
 │   ├── public/             
-│   │   ├── favicon.ico      # Favicon for the web application
-│   │   ├── index.html       # Main HTML file
-│   │   ├── logo192.png      # Logo for PWA (192x192)
-│   │   ├── logo512.png      # Logo for PWA (512x512)
-│   │   ├── manifest.json     # Web App Manifest
+│   │   ├── favicon.ico     
+│   │   ├── index.html       
+│   │   ├── logo192.png      
+│   │   ├── logo512.png      
+│   │   ├── manifest.json     
 │   │   └── robots.txt       # Robots.txt file for SEO
 │   │
 │   ├── src/                # Source files for the frontend application
